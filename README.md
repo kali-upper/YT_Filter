@@ -1,4 +1,5 @@
-# YT_Filter フィルタリングされた YouTube (Filtered YouTube) फिल्टर किया गया यूट्यूब 📺✨
+# YT_Filter
+# YouTube (Filtered YouTube) 📺✨
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kali-upper/YT_Filter/main/assets/favicon.ico" alt="YT_Filter Logo" width="120"/>
