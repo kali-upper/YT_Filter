@@ -63,15 +63,15 @@
 1. عمل Fork للمستودع.
 2. إنشاء فرع جديد:
    ```bash
-   git checkout -b feature/AmazingFeature
+   git checkout -b feature/custom-youtube-filter
    ```
 3. عمل Commit للتغييرات:
    ```bash
-   git commit -m 'Add some AmazingFeature'
+   git commit -m 'Add some custom-youtube-filter'
    ```
 4. دفع التغييرات:
    ```bash
-   git push origin feature/AmazingFeature
+   git push origin feature/custom-youtube-filter
    ```
 5. افتح Pull Request.
 
